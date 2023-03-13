@@ -1,6 +1,6 @@
 {
   "name": "@chenbojian/excalidraw",
-  "version": "0.14.2",
+  "version": "0.14.2-chenbojian.0",
   "main": "main.js",
   "types": "types/packages/excalidraw/index.d.ts",
   "files": [
